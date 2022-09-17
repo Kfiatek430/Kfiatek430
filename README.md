@@ -3,4 +3,5 @@
 <h5>I'm currently learning C++</h5>
 <br>
 I'm interested in programming, listening old rock song, playing ping pong & badminton
+<br>
 I'm a student of Technikum Łączności nr 14, Kraków, Poland
