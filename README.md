@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I’m Michał <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1></h1>
+<h1 align="center">Hi, I’m Michał <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+Backend software engineer and a student at the Zespół Szkół Łączności in Kraków, with a strong passion for building robust backend solutions.
 
 <h3>💻 Programming Languages</h3>
 <p>
