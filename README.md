@@ -12,4 +12,4 @@ I'm a software engineer and a student at a technical school in Kraków, with a s
 
 💡 Tools and technologies I’ve worked with in school, previous jobs or side projects:
 
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,materialui,nestjs,mysql,mongodb,supabase,java,cpp,cs,python,php,cypress,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,nestjs,java,cpp,cs,python,php)](https://skillicons.dev)
