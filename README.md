@@ -6,10 +6,10 @@ I'm a software engineer and a student at a technical school in Kraków, with a s
 
 💻 The technologies I currently use at work:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,express,prisma,jest,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,nestjs,prisma,jest,mongodb)](https://skillicons.dev)
 
 ## 🧰 Other Experience
 
 💡 Tools and technologies I’ve worked with in school, previous jobs or side projects:
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,nestjs,java,cpp,cs,python,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,express,java,cpp,cs,python,php,postgres)](https://skillicons.dev)
